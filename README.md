@@ -1,6 +1,6 @@
 # K-EmoPhone Stress Prediction Project
 
-This repository contains code for predicting users' self-reported stress using extracted features from the K-EmoPhone dataset. The project implements various machine learning approaches including traditional ML models and deep learning methods specifically designed for tabular data.
+This repository contains my approach for predicting users' self-reported stress using extracted features from the K-EmoPhone dataset. The project implements various machine learning approaches including traditional ML models and deep learning methods specifically designed for tabular data.
 
 ## Project Structure
 
@@ -56,7 +56,7 @@ This repository contains code for predicting users' self-reported stress using e
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/minhaj1403/iotds.git>
 cd iotds
 ```
 
@@ -126,7 +126,7 @@ Results from each assignment are saved in the `results/` directory with descript
 
 ## Contributors
 
-This project is based on material from TAs at IC Lab, KAIST, including Panyu Zhang, Soowon Kang, and Woohyeok Choi.
+This project is based on material from TAs at IC Lab led by Prof. Uichin Lee, KAIST, including Panyu Zhang, Soowon Kang, and Woohyeok Choi.
 
 ## License
 
