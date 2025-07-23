@@ -1,0 +1,19 @@
+# Results Directory
+
+This directory will contain the results from running the various assignments.
+
+Each assignment will create timestamped subdirectories with:
+- CSV files containing cross-validation results
+- Configuration files with experiment parameters
+- Summary reports comparing different approaches
+
+## Directory Structure
+
+```
+results/
+├── assignment1_YYYYMMDD_HHMMSS/  # Feature combination experiments
+├── assignment2_YYYYMMDD_HHMMSS/  # Feature selection experiments
+├── assignment3_YYYYMMDD_HHMMSS/  # Hyperparameter tuning
+├── assignment4_YYYYMMDD_HHMMSS/  # Deep learning models
+└── assignment5_YYYYMMDD_HHMMSS/  # Ensemble methods
+```

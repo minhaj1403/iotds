@@ -1,0 +1,10 @@
+xgboost
+pandas
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+shap
+hyperopt
+pytorch-tabnet
+torch
