@@ -124,9 +124,18 @@ Edit `config/config.py` to modify:
 
 Results from each assignment are saved in the `results/` directory with descriptive filenames indicating the experiment configuration.
 
+
 ## Contributors
 
 This project is based on material from TAs at IC Lab led by Prof. Uichin Lee, KAIST, including Panyu Zhang, Soowon Kang, and Woohyeok Choi.
+
+## Dataset
+
+**Description**: [K-EmoPhone: A Mobile and Wearable Dataset with In-Situ Emotion, Stress, and Attention Labels](https://doi.org/10.1038/s41597-023-02248-2)
+
+**Citation**: Soowon Kang, Woohyeok Choi, Cheul Young Park, Narae Cha, Auk Kim, Ahsan Habib Khandoker, Leontios Hadjileontiadis, Heepyung Kim, Yong Jeong, Uichin Lee. *Scientific Data*, 10, 351 (2023).
+
+**Dataset URL**: https://doi.org/10.5281/zenodo.7606611
 
 ## License
 
